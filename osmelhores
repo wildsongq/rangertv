@@ -1829,6 +1829,9 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/499
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Entretenimento",PORTA DOS FUNDOS (24H)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+
 http://xcui.vitvabc.xyz:8880/movie/flu-laliu/fPfYtxYgWe/16636.mkv
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16765
