@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://bgp.cdnr1.xyz/xmltv.php?username=diltech&password=diltech0310&type=xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ManuelSousa1974/EPG-BRASIL/master/Tv_guide.xml"
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16692
 #EXTINF:-1 group-title="Portuguese",Quando Nos Conhecemos (2018)
 http://xcui.vitvabc.xyz:8880/movie/flu-laliu/fPfYtxYgWe/503.mkv
