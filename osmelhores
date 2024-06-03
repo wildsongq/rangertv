@@ -102,6 +102,8 @@ https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1e/10000158.png",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 
 
