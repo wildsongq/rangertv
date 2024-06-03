@@ -107,6 +107,10 @@ https://brflu.walk-tv.com/5791/tracks-v1a1/mono.m3u8
 https://brflu.walk-tv.com/5850/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/curta.png",Curta! HD
 https://brflu.walk-tv.com/5804/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/tcm.png",TCM HD
+https://brflu.walk-tv.com/5837/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/tcm.png",TCM HD
+https://brflu.walk-tv.com/5837/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
