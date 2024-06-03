@@ -95,9 +95,9 @@ https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
 https://brflu.walk-tv.com/5827/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png",STAR CHANNEL HD
 https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY CHANNEL HD
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",CANAL SONY HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_amc-brasil_m.png",AMC BRASIL HD
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_amc-brasil_m.png",AMC HD
 https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 
 
