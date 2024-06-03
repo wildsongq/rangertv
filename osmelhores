@@ -77,6 +77,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070
 https://brflu.walk-tv.com/5783/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE HD
 https://brflu.walk-tv.com/5771/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-hd_m.png",HBO HD
+https://mycdn.delivery/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16765
