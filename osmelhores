@@ -100,6 +100,9 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_amc-brasil_m.png",AMC HD
 https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BandSports HD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+
 
 
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
