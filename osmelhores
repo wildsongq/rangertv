@@ -81,6 +81,25 @@ https://brflu.walk-tv.com/5771/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FAMILY HD
 https://brflu.walk-tv.com/5859/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png",TELECINE ACTION HD
+https://brflu.walk-tv.com/5875/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",TELECINE TOUCH HD
+https://brflu.walk-tv.com/5880/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png",TELECINE PREMIUM HD
+https://brflu.walk-tv.com/5879/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca_m.png",TELECINE PIPOCA HD
+https://brflu.walk-tv.com/5877/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png",TELECINE FUN HD
+https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL HD
+https://brflu.walk-tv.com/5827/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png",STAR CHANNEL HD
+https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY CHANNEL HD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_amc-brasil_m.png",AMC BRASIL HD
+https://mycdn.delivery/amc/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
