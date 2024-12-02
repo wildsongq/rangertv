@@ -152,13 +152,15 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717407264/ei/wDldZoazKdar1sQP27CP2Aw/ip/2804%3A7a50%3A8782%3Aad00%3A982f%3A2bca%3A9636%3Aaaf8/id/c93ad81d84ae8d03/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-5h51voxunxg8pjvcg-h5vl.googlevideo.com/mh/JF/mm/31%2C29/mn/sn-5h51voxunxg8pjvcg-h5vl%2Csn-uphcg51pa-bg0e/ms/au%2Crdu/mv/m/mvi/3/pl/33/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1122500/vprv/1/go/1/rqh/5/mt/1717385318/fvip/6/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMn14rxvYy0TaOXBnqSsgF7Hzc2YGpP6JYTeJElQQLrkCIEpwi-aT-0n6IYo7erJ02XNi_VPKhP0gz30QJ1OmePLh/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AHlkHjAwRgIhAOPJD3cNEzHdlrmqvUKAw1aEcg3hrrKsI50gix5TNBc5AiEAw3CWt7myvQ10foWBxgE3-isa04xZaf-l3cyKoyX70Eo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+https://abc.embedmax.site/bandsports/video.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
+https://stream.m3u8.one/bandsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1e/10000158.png",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/red-bull-tv.webp",Red Bull TV	
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/tnt.png",TNT HD
-https://mycdn.delivery/tnt/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/tnt/index.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiereclubes.jpg",Premiere 1 Clubes HD
 https://abc.embedmax.site/premiere1/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere2.jpg",Premiere 2 HD
@@ -172,7 +174,7 @@ https://abc.embedmax.site/premiere4/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere6.jpg",Premiere 6 HD
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere7.jpg",Premiere 7 HD
-https://mycdn.delivery/tnt/tracks-v1a1/mono.m3u8
+https://new.m3u8.one/pre7/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere8.jpg",Premiere 8 HD
 
 
