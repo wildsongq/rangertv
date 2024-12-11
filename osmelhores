@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",Xite (720p)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="playtv.com.br" tvg-logo="https://4.bp.blogspot.com/-XDaosPVzbgs/UWBQCuaNSZI/AAAAAAAAA9g/xmkAgSTeNAc/s320/playtv+tv+online+sem+travar.png" group-title="Music",PlayTV (1080P)
-https://xite-samsung-de.amagi.tv/playlist.m3u8
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Music" tvg-name="QMusic Holanda",QMusic Holanda NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="Music",Bridge Rock
