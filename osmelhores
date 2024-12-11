@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://sv1.iptvcasa.online/xmltv.php?username=fabiano&password=123456&type=xml"
+#EXTM3U x-tvg-url="http://epg.liveiptv.net/epg.xml"
 
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",Xite (720p)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
