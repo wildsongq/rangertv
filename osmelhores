@@ -16,8 +16,8 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2014/03/vh1_marca.jpg" group-title="Music", VH1
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/496
-#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1f/10000159.png" group-title="Music" , MTV HD
-https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x2/docs/mtv/__index.m3u8?mu3zAQc9HC3GbwJq=ixDjLjns7zeTlc4l7SUe8Q&3U1G7qaTxrPbalZnEx=1733909167&sv=94
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1f/10000159.png" group-title="Music" , MTV Brasil HD
+https://prd.jwpltx.com/v1/error/ping.gif?h=-134452515&e=err&n=4397403331534742&abc=0&aid=GCCG&amp=0&at=1&c=0&ccp=0&cp=0&d=0&eb=0&ed=6&emi=17onvozw9lxc&i=1&lid=p1di266z8747&lsa=read&mt=0&pbd=1&pbr=1&pgi=rjhbx01y7ruz&ph=0&pii=0&pl=385&plc=1&pli=zg690tkj28k1&pp=hlsjs&prc=1&ps=3&pss=1&pt=Player&pu=https%3A%2F%2Freidoscanais.tv%2F&pv=8.26.0&pyc=0&s=1&sdk=0&stc=1&stpe=0&tv=3.41.0&vb=1&vi=1&vl=13&wd=737&cme=0&erc=232001&mu=https%3A%2F%2Fanonmedia.eu%2Fmtv%2Findex.m3u8&sa=1733834359675
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/800px-MTV2_logo_2013.svg.png" group-title="Music", MTV 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 1
@@ -134,6 +134,8 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/757c1f5876aec1ab5a54c27ef01dab76.png",FX HD
 https://abc.embedmax.site/fx/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png",Studio Universal HD
+https://abc.embedmax.site/studiouniversal/index.fmp4.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png",MOVIESPHERE HD
 https://abc.embedmax.site/studiouniversal/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="CANAIS REGIONAL: MANAUS" tvg-logo="https://cdn.mitvstatic.com/channels/br_amazon-sat_m.png",Amazon Sat HD
