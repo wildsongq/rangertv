@@ -16,8 +16,8 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2014/03/vh1_marca.jpg" group-title="Music", VH1
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/496
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg" group-title="Music" , MTV HD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.1sTqlXeby-zsiI7xpNdj2QHaHa?pid=ImgDet&w=179&h=179&c=7" group-title="Music" , MTV HD
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x2/docs/mtv/__index.m3u8?mu3zAQc9HC3GbwJq=ixDjLjns7zeTlc4l7SUe8Q&3U1G7qaTxrPbalZnEx=1733909167&sv=94
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/800px-MTV2_logo_2013.svg.png" group-title="Music", MTV 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 1
