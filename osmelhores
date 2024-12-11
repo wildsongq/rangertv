@@ -136,7 +136,7 @@ https://abc.embedmax.site/fx/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png",Studio Universal HD
 https://abc.embedmax.site/studiouniversal/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png",MOVIESPHERE HD
-https://abc.embedmax.site/studiouniversal/index.fmp4.m3u8
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=znbQJxMeLGeDZ1T-XsEk
 
 #EXTINF:-1 group-title="CANAIS REGIONAL: MANAUS" tvg-logo="https://cdn.mitvstatic.com/channels/br_amazon-sat_m.png",Amazon Sat HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
