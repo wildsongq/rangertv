@@ -140,7 +140,7 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed49
 
 #EXTINF:-1 group-title="CANAIS REGIONAL: MANAUS" tvg-logo="https://cdn.mitvstatic.com/channels/br_amazon-sat_m.png",Amazon Sat HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 group-title="CANAIS REGIONAL: MANAUS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/069153afeabc056a84104f0902ae19e1.webp",TV A Crítica HD
+#EXTINF:-1 group-title="CANAIS REGIONAL: MANAUS" tvg-logo="https://yt3.googleusercontent.com/W-MkttEWks9NMf6WXjkQZCW75u8ZWWna5RupeK_0vdEb216gZySR8l2YGWovaXYI_S3G3RwJ=s900-c-k-c0x00ffffff-no-rj",TV A Crítica HD
 http://fzcdn.vood.top/live/889281840/Z451m1324a/244119.m3u8
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
