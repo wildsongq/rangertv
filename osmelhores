@@ -169,7 +169,18 @@ http://czcdn.vood.top/live/889281840/Z451m1324a/509.m3u8?sjwt=eyJhbGciOiJIUzI1Ni
 https://new.m3u8.one/pre7/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere8.jpg",Premiere 8 HD
 
-
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN BRASIL HD
+https://super-cdn.link/espn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-2-ao-vivo-online.webp",ESPN 2 HD
+https://super-cdn.link/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-3-ao-vivo-online.webp",ESPN 3 HD
+https://super-cdn.link/espn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-4-ao-vivo-online.webp",ESPN 4 HD
+https://super-cdn.link/espn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-5-ao-vivo-online.webp",ESPN 5 HD
+https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-6-ao-vivo-online.webp",ESPN 6 HD
+https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16765
@@ -400,23 +411,16 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31138
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c26dccc766e82ad1f3ebcb7e40cbb82f.png",ESPN 2 FULL HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31139
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/c26dccc766e82ad1f3ebcb7e40cbb82f.png",ESPN 2 HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31140
-#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/c26dccc766e82ad1f3ebcb7e40cbb82f.png",ESPN 2 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31141
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/96e8f1dba8c6dfcf1379418173569f03.png",ESPN 3
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31142
-#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/7d667f77e341da004989b608f708f80c.png",ESPN EXTRA FULLHD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31145
-#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/7d667f77e341da004989b608f708f80c.png",ESPN EXTRA HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31146
-#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/7d667f77e341da004989b608f708f80c.png",ESPN EXTRA HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31147
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png",ESPN 4 HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31148
+https://super-cdn.link/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31149
+https://super-cdn.link/espn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31150
+https://super-cdn.link/espn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/1f6db2c851e6e99a28afca1015bb0ea7.png",FISH TV FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31151
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/0d5e8cc590d7d27052d14c315bff72a8.png",FOX SPORTS 2 FHD
