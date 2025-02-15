@@ -128,7 +128,7 @@ https://super-cdn.link/sonychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/bis.png",BIS HD
 https://abc.embedmax.site/bis/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/tntnovelas.png",TNT Novelas HD
-https://super-cdn.link/tntnovelas/tracks-v1a1/mono.m3u8
+https://super-cdn.link/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg",MTV HD
 https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/757c1f5876aec1ab5a54c27ef01dab76.png",FX HD
@@ -152,7 +152,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/red-bull-tv.webp",Red Bull TV	
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/tnt.png",TNT HD
-https://fonteruim.icu/token/ab26e2d19df2ae87c977bdbcb6da9872/nossoplayer.m3u8
+https://super-cdn.link/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiereclubes.jpg",Premiere 1 Clubes HD
 https://abc.embedmax.site/premiere1/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere2.jpg",Premiere 2 HD
