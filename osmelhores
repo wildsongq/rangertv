@@ -201,27 +201,27 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1058305801.m3u8
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16765
+https://super-cdn.link/warnerchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f53cb2e04640ca256232eba89d1fafba.png",A&E HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16691
+https://super-cdn.link/aee/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ca03558ddf31e54c4aba5eb9b57bb8e9.png",ANIMAL PLANET HD
-https://new.m3u8.one/animalplanet/tracks-v1a1/mono.m3u8
+https://super-cdn.link/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6ab084e84aa418d433868844b78a81ae.png",Arte 1 HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16694
+https://super-cdn.link/arte1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png",AXN HD
-https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8
+https://super-cdn.link/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ecde17229a3d07369de3b9bb5ba43bc6.png",Band News HD
-https://abc.embedmax.site/bandnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/451d8bba7133cb8e02df39f1cb5da6ce.png",Band SP HD
-https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
+https://super-cdn.link/bandnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/451d8bba7133cb8e02df39f1cb5da6ce.png",Band SP
+https://live-c2.cf.dmcdn.net/sec2(dzGWdGU3i5S38gS2E89Xy4zyqIwha_ZCfIdtgqAYtKdBZyc4yGjmCpZ30oWv4O92-zOgMMy4ghGvGPxu4tM1q1hyXFbwHkkVIRgvwsK1bkMGElq7Ue96XPBmUrTJSKi0)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png",Band Sports HD
-https://abc.embedmax.site/bandsports/video.m3u8
+https://super-cdn.link/bandsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/dd02529659d42a9a11bee759de133674.png",Boomerang HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16699
+https://embedcanaistv.site/cartoonito/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/33561003f44d374c719506bef4faeba4.png",Canal Sony HD
-https://abc.embedmax.site/sonychannel/tracks-v1a1/mono.m3u8
+https://super-cdn.link/sonychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png",Cartoon Network HD
-https://abc.embedmax.site/cartoonnetwork/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png",CINEMAX HD
 https://abc.embedmax.site/cinemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png",Combate HD
