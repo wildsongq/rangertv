@@ -17,7 +17,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967
 #EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2014/03/vh1_marca.jpg" group-title="Music", VH1
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/496
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1f/10000159.png" group-title="Music" , MTV Brasil HD
-https://prd.jwpltx.com/v1/error/ping.gif?h=-134452515&e=err&n=4397403331534742&abc=0&aid=GCCG&amp=0&at=1&c=0&ccp=0&cp=0&d=0&eb=0&ed=6&emi=17onvozw9lxc&i=1&lid=p1di266z8747&lsa=read&mt=0&pbd=1&pbr=1&pgi=rjhbx01y7ruz&ph=0&pii=0&pl=385&plc=1&pli=zg690tkj28k1&pp=hlsjs&prc=1&ps=3&pss=1&pt=Player&pu=https%3A%2F%2Freidoscanais.tv%2F&pv=8.26.0&pyc=0&s=1&sdk=0&stc=1&stpe=0&tv=3.41.0&vb=1&vi=1&vl=13&wd=737&cme=0&erc=232001&mu=https%3A%2F%2Fanonmedia.eu%2Fmtv%2Findex.m3u8&sa=1733834359675
+https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/800px-MTV2_logo_2013.svg.png" group-title="Music", MTV 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 1
@@ -67,6 +67,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070
 
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-1_m.png",CINEMAX HD
 https://super-cdn.link/cinemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1f/10000159.png",MTV BRASIL
+https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE HD
 https://super-cdn.link/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-hd_m.png",HBO HD
