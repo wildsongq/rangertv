@@ -184,7 +184,7 @@ https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp",ANIMAX
 https://stream.ichibantv.com:3547/stream/play.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzlVGoVbXqd1HtClmx0ry4Q4SBGAXPkpP4aCRd9Cnm8H-YDvtIR-bIEtcBheYtROeANk&usqp=CAU",ANIME TV
+#EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt159Hj-JiSx-tDJ-a7Wt7-YAwprRXHJap0w&s",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w395745946.m3u8
 
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
