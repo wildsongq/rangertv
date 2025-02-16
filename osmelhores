@@ -188,7 +188,7 @@ https://stream.ichibantv.com:3547/stream/play.m3u8
 https://stmv1.srvif.com/animetv/animetv/chunklist_w395745946.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp",LOANDING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1951026663.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp",ANITV
+#EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38c67fdfc57a8a0087e02316d408473b.webp",GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="CANAIS NOVOS: 24HS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34848ed178e03783640b8cc7a653b3c9.webp",Desenhos Clássicos TV
