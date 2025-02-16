@@ -182,6 +182,9 @@ https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-6-ao-vivo-online.webp",ESPN 6 HD
 https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp",ANIMAX
+https://stream.ichibantv.com:3547/stream/play.m3u8
+
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16765
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f53cb2e04640ca256232eba89d1fafba.png",A&E HD
