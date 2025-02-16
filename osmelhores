@@ -187,6 +187,13 @@ https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt159Hj-JiSx-tDJ-a7Wt7-YAwprRXHJap0w&s",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w395745946.m3u8
 
+#EXTINF:-1 group-title="CANAIS NOVOS: 24HS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34848ed178e03783640b8cc7a653b3c9.webp",Desenhos Clássicos TV
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1735092352.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: 24HS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp",Jetsons Tv
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1058305801.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: 24HS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d021f8e7219847e90d1fc4314faf54b7.webp",Mr Bean
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png",Warner Channel HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16765
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f53cb2e04640ca256232eba89d1fafba.png",A&E HD
