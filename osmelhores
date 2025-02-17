@@ -287,7 +287,7 @@ https://abc.embedmax.site/paramountnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/3a120df59994334ed69992ba8e249e2a.png",Record News HD
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1494179154.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORDTV HD
-https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
+https://alanza.iptv2022.com/sh/RecordTV/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png",SBT SP HD
 https://abc.embedmax.site/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ef537f5e1b335fb801b835682d8adade.png",Space HD
@@ -533,41 +533,13 @@ https://anonstream.zip/disneychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: NOTICIAS" tvg-logo="http://xcui.10initiatived.uk:8880/images/ecde17229a3d07369de3b9bb5ba43bc6.png",BAND NEWS FHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31506
 #EXTINF:-1 group-title="CANAIS: NOTICIAS" tvg-logo="http://xcui.10initiatived.uk:8880/images/2814f67d3df8b97f62c4cfe980f62eaf.png",CNN BRASIL FULLHD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31508
+https://super-cdn.link/cnnbrasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: NOTICIAS" tvg-logo="http://xcui.10initiatived.uk:8880/images/2814f67d3df8b97f62c4cfe980f62eaf.png",CNN BRASIL HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31509
-#EXTINF:-1 group-title="CANAIS: NOTICIAS" tvg-logo="http://xcui.10initiatived.uk:8880/images/98a945960e7e12e215ba7bb3e29002e7.png",CNN INTERNACIONAL FULLHD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31511
+https://super-cdn.link/cnnbrasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="http://xcui.10initiatived.uk:8880/images/55ce67774e3a89c37a27335084c10a0b.png",GLOBO NEWS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31519
-#EXTINF:-1 group-title="CANAIS: NOTICIAS" tvg-logo="http://xcui.10initiatived.uk:8880/images/9fe7a9654e9a7bae88c4671e55d708df.png",NHK JAPÃO  HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31520
+https://super-cdn.link/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: NOTICIAS" tvg-logo="http://xcui.10initiatived.uk:8880/images/3a120df59994334ed69992ba8e249e2a.png",RECORD NEWS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31523
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",BR: RECORD CAMPINAS HD²
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31553
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",BR: RECORD RJ HD²
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31555
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",BR: RECORD SP HD²
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31556
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORDTV SANTOS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31557
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD SANTOS FHD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31560
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD FULL HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31562
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD GOIAS
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31563
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD MINAS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31565
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD RJ HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31566
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD RS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31567
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD SP HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31568
-#EXTINF:-1 group-title="CANAIS: RECORD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7a25fa0eb158ef4684e67222597beb97.png",RECORD¹
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31569
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 group-title="CANAIS: RELIGIOSOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/8072432e404a757e1177e26bb1a94e30.png",NOVO TEMPO
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31573
 #EXTINF:-1 group-title="CANAIS: RELIGIOSOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/9a401d110cb4a75a26e392d0827f488d.png",REDE VIDA
