@@ -77,7 +77,12 @@ https://www.twitch.tv/todo_mundo_ama_o_chriss?sr=a
 https://stream.zeno.fm/dg8shv92238uv.m3u
 #EXTINF:-1 tvg-id="MAXBSC" group-title="RADIOS: 5.1" tvg-logo="https://cdn.hunter.fm/image/thumb/station/pop2k-third/400x400ht.jpg",HUNTER.FM - POP2K
 https://stream.hunter.fm/pop2k/64.m3u8
-
+#EXTINF:-1 tvg-id="MAXBSC" group-title="RADIOS: 5.1" tvg-logo="https://cdn.hunter.fm/image/thumb/station/pop-third/400x400ht.jpg",HUNTER.FM - POP
+https://hls.hunter.fm/pop/64.m3u8
+#EXTINF:-1 tvg-id="MAXBSC" group-title="RADIOS: 5.1" tvg-logo="https://cdn.hunter.fm/image/thumb/station/sertanejo-third/400x400ht.jpg",HUNTER.FM - SERTANEJO
+https://hls.hunter.fm/sertanejo/64.m3u8
+#EXTINF:-1 tvg-id="MAXBSC" group-title="RADIOS: 5.1" tvg-logo="https://cdn.hunter.fm/image/thumb/station/rock-third/400x400ht.jpg",HUNTER.FM - ROCK
+https://hls.hunter.fm/rock/64.m3u8
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-1_m.png",CINEMAX HD
 https://super-cdn.link/cinemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/mtv.svg",MTV BRASIL
