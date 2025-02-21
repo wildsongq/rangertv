@@ -73,6 +73,9 @@ https://sae12.playlist.ttvnw.net/v1/playlist/CuMG-uDwPlFzVzKR53ynuXjd658eOLduzYr
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS DA TWITCH" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/986/936/small/twitch-logo-twitch-logo-transparent-twitch-icon-transparent-free-free-png.png",TESTE
 https://www.twitch.tv/todo_mundo_ama_o_chriss?sr=a
 
+#EXTINF:-1 tvg-id="MAXBSC" group-title="RADIOS: 5.1" tvg-logo="https://zeno.fm/_ipx/s_144x144/https://images.zeno.fm/pFOQhFc55Oh0t6TKefKMcVR8lJLz0mxFJHY9xfJQSdc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3d5NjJkZ3dnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3c2ODZhNFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTczMzE5MzUxMzAwMA.webp",RADIO VERSAO FM
+https://stream.zeno.fm/dg8shv92238uv.m3u
+
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-1_m.png",CINEMAX HD
 https://super-cdn.link/cinemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/mtv.svg",MTV BRASIL
