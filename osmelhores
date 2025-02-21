@@ -225,7 +225,7 @@ https://super-cdn.link/arte1/tracks-v1a1/mono.m3u8
 https://super-cdn.link/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ecde17229a3d07369de3b9bb5ba43bc6.png",Band News HD
 https://super-cdn.link/bandnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Band-eye.png/revision/latest/scale-to-width-down/100?cb=20250108205319",Band SP
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_band_m.png",Band SP
 https://live-c2.cf.dmcdn.net/sec2(LAO6fXOeiL28lw3UXDARnJO4PCjrdG1vxCPBCZyzk1fuQDhxltAm_Q4ySxT9eBN9v8USSSjIkRDJEr4k1fUbPEfhsTaq-0o4uguaxRZwaIFDiFxqgDfgNQx37LNuVBi8)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png",Band Sports HD
 https://super-cdn.link/bandsports/tracks-v1a1/mono.m3u8
@@ -777,7 +777,7 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/33736
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/33737
 #EXTINF:-1 group-title="CANAIS: VARIEDADES" tvg-logo="http://xcui.10initiatived.uk:8880/images/14ef5933cbf024e33f5637ae104dab8c.png",MUSIC BOX BRASIL HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/33738
-#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/4bebeaca8f8c5b57834422428a9dc3ab.png",Gloobinho HD
+#EXTINF:-1 group-title="CANAIS: INFANTIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho_m.png",Gloobinho HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/33739
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="http://xcui.10initiatived.uk:8880/images/4bebeaca8f8c5b57834422428a9dc3ab.png",Gloobinho HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/33741
