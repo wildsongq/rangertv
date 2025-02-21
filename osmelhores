@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",Xite (720p)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="playtv.com.br" tvg-logo="https://4.bp.blogspot.com/-XDaosPVzbgs/UWBQCuaNSZI/AAAAAAAAA9g/xmkAgSTeNAc/s320/playtv+tv+online+sem+travar.png" group-title="Music",PlayTV (1080P)
+#EXTINF:-1 tvg-id="playtv.com.br" tvg-logo="https://mondrian.claro.com.br/channels/default/play-tv.svg" group-title="Music",PlayTV
 https://alanza.iptv2022.com/sh/PlayTv/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="51" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Music" tvg-name="QMusic Holanda",QMusic Holanda NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
@@ -223,7 +223,7 @@ https://super-cdn.link/animalplanet/tracks-v1a1/mono.m3u8
 https://super-cdn.link/arte1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png",AXN HD
 https://super-cdn.link/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ecde17229a3d07369de3b9bb5ba43bc6.png",Band News HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-news.svg",Band News HD
 https://super-cdn.link/bandnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_band_m.png",Band SP
 https://live-c2.cf.dmcdn.net/sec2(LAO6fXOeiL28lw3UXDARnJO4PCjrdG1vxCPBCZyzk1fuQDhxltAm_Q4ySxT9eBN9v8USSSjIkRDJEr4k1fUbPEfhsTaq-0o4uguaxRZwaIFDiFxqgDfgNQx37LNuVBi8)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
