@@ -273,7 +273,7 @@ https://abc.embedmax.site/fx/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/55ce67774e3a89c37a27335084c10a0b.png",Globo RJ HD
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/1d17f580af471f95d9962c54a4c2a53e.png",Globo SP HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/channels/default/globo.svg",Globo SP HD
 https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/098e226911936d70ac7d1a3dec0ea528.png",Gloob HD
 https://abc.embedmax.site/gloob/tracks-v1a1/mono.m3u8
