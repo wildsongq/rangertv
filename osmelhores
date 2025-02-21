@@ -75,7 +75,7 @@ https://www.twitch.tv/todo_mundo_ama_o_chriss?sr=a
 
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-1_m.png",CINEMAX HD
 https://super-cdn.link/cinemax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1f/10000159.png",MTV BRASIL
+#EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/mtv.svg",MTV BRASIL
 https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE HD
 https://super-cdn.link/space/tracks-v1a1/mono.m3u8
@@ -137,7 +137,7 @@ https://new.m3u8.one/warnetv/index.m3u8
 https://super-cdn.link/sonychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/bis.png",BIS HD
 https://abc.embedmax.site/bis/index.fmp4.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/tntnovelas.png",TNT Novelas HD
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://mondrian.claro.com.br/channels/default/tnt-novelas.svg",TNT Novelas HD
 https://super-cdn.link/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg",MTV HD
 https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
