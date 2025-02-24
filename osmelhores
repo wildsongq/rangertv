@@ -108,7 +108,7 @@ https://super-cdn.link/paramountnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png",STAR CHANNEL HD
 https://super-cdn.link/starchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",CANAL SONY HD
-https://super-cdn.link/sonychannel/tracks-v1a1/mono.m3u8
+http://gzcdn.vood.top/live/889281840/Z451m1324a/700.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDgzODIifQ.ndQIIxYomUzOtJT0AWXSRg10wDgN5uZV8HHDTI89KQo&id=700&p=m3u8&aid=1740431238
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_amc-brasil_m.png",AMC HD
 https://super-cdn.link/amc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/e.png",E! HD
@@ -140,11 +140,11 @@ https://abc.embedmax.site/discoveryheh/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/hgtv.png",HGTV HD
 https://super-cdn.link/hgtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/canalbrasil.png",Canal Brasil HD
-https://super-cdn.link/canalbrasil/tracks-v1a1/mono.m3u8
+http://ezcdn.vood.top/live/889281840/Z451m1324a/146.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzgxMzAifQ.vG9K897n9noLMQwK9-maOs-khOzvyO4LIyAYdgiuWXg&id=146&p=m3u8&aid=1740431482
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/warnerchannel.png",Warner Channel HD
 https://new.m3u8.one/warnetv/index.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/sony.png",Canal Sony FHD
-https://super-cdn.link/sonychannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/sony.png",Canal Sony HD
+http://gzcdn.vood.top/live/889281840/Z451m1324a/700.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDgzODIifQ.ndQIIxYomUzOtJT0AWXSRg10wDgN5uZV8HHDTI89KQo&id=700&p=m3u8&aid=1740431238
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://loopstatic.net/bis.png",BIS HD
 https://abc.embedmax.site/bis/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://mondrian.claro.com.br/channels/default/tnt-novelas.svg",TNT Novelas HD
@@ -154,7 +154,7 @@ https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/757c1f5876aec1ab5a54c27ef01dab76.png",FX HD
 https://super-cdn.link/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png",Studio Universal HD
-https://super-cdn.link/studiouniversal/tracks-v1a1/mono.m3u8
+http://izcdn.vood.top/live/889281840/Z451m1324a/713.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDY1MzgifQ.W17LZjznh8kR6RrTpU5G_t_MGMAX_qZdx6GSzuF8ZNU&id=713&p=m3u8&aid=1740431361
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png",MOVIESPHERE HD
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=znbQJxMeLGeDZ1T-XsEk
 
@@ -232,7 +232,7 @@ https://super-cdn.link/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6ab084e84aa418d433868844b78a81ae.png",Arte 1 HD
 https://super-cdn.link/arte1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/470b190de1ef11c136ccfacdec1b6017.png",AXN HD
-https://super-cdn.link/axn/tracks-v1a1/mono.m3u8
+http://hzcdn.vood.top/live/889281840/Z451m1324a/674.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDkzNTIifQ.kh0y7kkn7irmKJm1h8deQPZwu-2Q5VDMY6Mnwb-ffSE&id=674&p=m3u8&aid=1740431577
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/band-news.svg",Band News HD
 https://super-cdn.link/bandnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_band_m.png",Band SP
@@ -242,7 +242,7 @@ https://super-cdn.link/bandsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/dd02529659d42a9a11bee759de133674.png",Boomerang HD
 https://embedcanaistv.site/cartoonito/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/33561003f44d374c719506bef4faeba4.png",Canal Sony HD
-https://super-cdn.link/sonychannel/tracks-v1a1/mono.m3u8
+http://gzcdn.vood.top/live/889281840/Z451m1324a/700.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDgzODIifQ.ndQIIxYomUzOtJT0AWXSRg10wDgN5uZV8HHDTI89KQo&id=700&p=m3u8&aid=1740431238
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png",Cartoon Network HD
 https://embedcanaistv.site/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png",CINEMAX HD
@@ -322,7 +322,7 @@ https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv.svg",SporTV 1 HD
 http://ezcdn.vood.top/live/889281840/Z451m1324a/118881.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDI2NTQifQ.jgEDW40vq04wh9KC_aw2jCYo-rwSDa8xgKcnDhLlEjg&id=118881&p=m3u8&aid=1739603086
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png",Studio Universal HD
-https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
+http://izcdn.vood.top/live/889281840/Z451m1324a/713.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDY1MzgifQ.W17LZjznh8kR6RrTpU5G_t_MGMAX_qZdx6GSzuF8ZNU&id=713&p=m3u8&aid=1740431361
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7391ca01afa53989bc65ef9a3bf206ec.png",SyFy HD
 http://hzcdn.vood.top/live/889281840/Z451m1324a/716.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDAwOTU5OTksImlhdCI6MTc0MDAwOTYwMCwibmJmIjoxNzQwMDA5NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDAwMTQifQ.kxjQY6odiuwEbiofPRvIqICn_anIxjBIClp3DOXAlB0&id=716&p=m3u8&aid=1740015169
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png",Telecine Fun HD
@@ -344,7 +344,7 @@ https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/451d8bba7133cb8e02df39f1cb5da6ce.png",BAND HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31060
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/417652494f8f2da086df3293f779e5e9.png",CANAL BRASIL HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31063
+http://ezcdn.vood.top/live/889281840/Z451m1324a/146.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzgxMzAifQ.vG9K897n9noLMQwK9-maOs-khOzvyO4LIyAYdgiuWXg&id=146&p=m3u8&aid=1740431482
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/bb86221e207517718edec13749ba359c.png",CANAL DO BOI
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31064
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/5598d90b4d89290c4d0a07115fe42a13.png",GAZETA
@@ -416,9 +416,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31268
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/3654b34017508a963ccce2426e91e4cd.png",AMC HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31269
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/470b190de1ef11c136ccfacdec1b6017.png",AXN HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31271
+http://hzcdn.vood.top/live/889281840/Z451m1324a/674.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDkzNTIifQ.kh0y7kkn7irmKJm1h8deQPZwu-2Q5VDMY6Mnwb-ffSE&id=674&p=m3u8&aid=1740431577
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/33561003f44d374c719506bef4faeba4.png",CANAL SONY HD
-https://abc.embedmax.site/sonychannel/tracks-v1a1/mono.m3u8
+http://gzcdn.vood.top/live/889281840/Z451m1324a/700.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDgzODIifQ.ndQIIxYomUzOtJT0AWXSRg10wDgN5uZV8HHDTI89KQo&id=700&p=m3u8&aid=1740431238
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png",CINEMAX HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31275
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/757c1f5876aec1ab5a54c27ef01dab76.png",FX FULL HD
@@ -438,9 +438,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31285
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/c85b8a04f06ffa680ed4d64295c36005.png",Star 4 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31286
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/d67d49568c51151403ab2aa0aa43801d.png",STUDIO UNIVERSAL FHD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31291
+http://izcdn.vood.top/live/889281840/Z451m1324a/713.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDY1MzgifQ.W17LZjznh8kR6RrTpU5G_t_MGMAX_qZdx6GSzuF8ZNU&id=713&p=m3u8&aid=1740431361
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/d67d49568c51151403ab2aa0aa43801d.png",STUDIO UNIVERSAL HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31292
+http://izcdn.vood.top/live/889281840/Z451m1324a/713.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDY1MzgifQ.W17LZjznh8kR6RrTpU5G_t_MGMAX_qZdx6GSzuF8ZNU&id=713&p=m3u8&aid=1740431361
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/7391ca01afa53989bc65ef9a3bf206ec.png",SYFY FHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31293
 #EXTINF:-1 group-title="CANAIS: FILMES E SERIES" tvg-logo="http://xcui.10initiatived.uk:8880/images/7391ca01afa53989bc65ef9a3bf206ec.png",SYFY HD
