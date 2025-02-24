@@ -164,9 +164,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 http://fzcdn.vood.top/live/889281840/Z451m1324a/244119.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk3NTAzOTksImlhdCI6MTczOTY2NDAwMCwibmJmIjoxNzM5NjY0MDAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzI3OTAifQ.XtyVb-Yno1B0tGXnGWCFQ26d4TG75wwcQrJ5lFv9Eaw&id=244119&p=m3u8&aid=1739684129
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
-https://super-cdn.link/bandsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
-https://super-cdn.link/bandsports/tracks-v1a1/mono.m3u8
+http://fzcdn.vood.top/live/889281840/Z451m1324a/235.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTYzNjIifQ.SXObfZtgnix9jSZwsLmiAqXfOkFdES4rouErL0Tr_uo&id=235&p=m3u8&aid=1740438332
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1e/10000158.png",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/red-bull-tv.webp",Red Bull TV	
@@ -238,7 +236,7 @@ https://super-cdn.link/bandnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_band_m.png",Band SP
 https://live-c2.cf.dmcdn.net/sec2(LAO6fXOeiL28lw3UXDARnJO4PCjrdG1vxCPBCZyzk1fuQDhxltAm_Q4ySxT9eBN9v8USSSjIkRDJEr4k1fUbPEfhsTaq-0o4uguaxRZwaIFDiFxqgDfgNQx37LNuVBi8)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcfc2
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png",Band Sports HD
-https://super-cdn.link/bandsports/tracks-v1a1/mono.m3u8
+http://fzcdn.vood.top/live/889281840/Z451m1324a/235.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTYzNjIifQ.SXObfZtgnix9jSZwsLmiAqXfOkFdES4rouErL0Tr_uo&id=235&p=m3u8&aid=1740438332
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/dd02529659d42a9a11bee759de133674.png",Boomerang HD
 https://embedcanaistv.site/cartoonito/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/33561003f44d374c719506bef4faeba4.png",Canal Sony HD
@@ -390,7 +388,7 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31129
 #EXTINF:-1 group-title="CANAIS: DOCUMENTARIOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/a618f8243037f235385da9aae4604b24.png",TRAVEL BOX BRAZIL
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31130
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png",BAND SPORTS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31134
+http://fzcdn.vood.top/live/889281840/Z451m1324a/235.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTYzNjIifQ.SXObfZtgnix9jSZwsLmiAqXfOkFdES4rouErL0Tr_uo&id=235&p=m3u8&aid=1740438332
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/758d8b1cbf0b6cee37110825fead0f77.png",COMBATE HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31137
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://xcui.10initiatived.uk:8880/images/c26dccc766e82ad1f3ebcb7e40cbb82f.png",ESPN 2 HD
