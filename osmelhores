@@ -170,40 +170,36 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/red-bull-tv.webp",Red Bull TV	
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/tnt.png",TNT HD
-https://super-cdn.link/tnt/tracks-v1a1/mono.m3u8
+http://dzcdn.vood.top/live/889281840/Z451m1324a/733.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTMxMDgifQ.cTD9I__MfLEUtP9J1wwSgE-2msVbMW4cX1hKrFFMHOY&id=733&p=m3u8&aid=1740438682
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiereclubes.jpg",Premiere 1 Clubes HD
 http://izcdn.vood.top:80/live/889281840/Z451m1324a/491.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTY2NDYifQ.QGYrhrwfASpEaDjDmUK6ozxU4Z2C_cyqF9obzlNa748&id=491&p=m3u8&aid=1739602102
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere2.jpg",Premiere 2 HD
 http://hzcdn.vood.top/live/889281840/Z451m1324a/497.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTA5MTYifQ.M1XiMeuI7CmsqO-jdZk3SYrKal01EvWFI08GV04OA-U&id=497&p=m3u8&aid=1739602703
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere3.jpg",Premiere 3 HD
-https://abc.embedmax.site/premiere3/index.fmp4.m3u8
+http://izcdn.vood.top/live/889281840/Z451m1324a/501.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDIxNTgifQ.9GsKYsP5WY9UgodEVrONaSbgJs-odFkYWkCYfaZ97ow&id=501&p=m3u8&aid=1740438820
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere4.jpg",Premiere 4 HD
 http://czcdn.vood.top/live/889281840/Z451m1324a/509.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTE4ODgifQ.Y_NpiV9qLhG2nNb2ay1ECMJvtx61qbLW-5eYXjzstJE&id=509&p=m3u8&aid=1739602853
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere5.jpg",Premiere 5 HD
-
+http://czcdn.vood.top/live/889281840/Z451m1324a/512.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTIxODgifQ.Lc0rnNH_eG-T7YU4pVNSqbyN_9sLp3hFhbaII6s6r1s&id=512&p=m3u8&aid=1740438890
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere6.jpg",Premiere 6 HD
-
+http://izcdn.vood.top/live/889281840/Z451m1324a/519.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDUyNTIifQ.lUjzhos-fcJx_u9lcND0azONH6DFxuNe5SM2hqimM7k&id=519&p=m3u8&aid=1740438944
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere7.jpg",Premiere 7 HD
-https://new.m3u8.one/pre7/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere8.jpg",Premiere 8 HD
-
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png",ESPN BRASIL HD
-https://super-cdn.link/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-2-ao-vivo-online.webp",ESPN 2 HD
-https://super-cdn.link/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-3-ao-vivo-online.webp",ESPN 3 HD
-https://super-cdn.link/espn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-4-ao-vivo-online.webp",ESPN 4 HD
-https://super-cdn.link/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-5-ao-vivo-online.webp",ESPN 5 HD
-https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/espn-6-ao-vivo-online.webp",ESPN 6 HD
-https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png",SPORTV 1 HD
+http://ezcdn.vood.top/live/889281840/Z451m1324a/524.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzkwODAifQ.zqzZS-xg35IdxkYMTXTi6SK2F25o9vcf-7CcWrqWyyo&id=524&p=m3u8&aid=1740438998
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-8_m.png",Premiere 8 HD
+http://zutufo.in/live/889281840/Z451m1324a/380749.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-brasil_m.png",ESPN HD
+http://izcdn.vood.top/live/889281840/Z451m1324a/520127.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6Mzc0MDQifQ.hqodkigLIJO7ToIkWEWfqE1_g_MP_xbjCFt_jPMWvbs&id=520127&p=m3u8&aid=1740439281
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-brasil_m.png",ESPN 2 HD
+https://lvstr.cfd/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-brasil_m.png",ESPN 3 HD
+http://izcdn.vood.top/live/889281840/Z451m1324a/217.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NjA3MTYifQ.TIe2BuEtdFUjwF4MmwResDO2wEJqcANJwr_rtD1gkNk&id=217&p=m3u8&aid=1740439874
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-brasil_m.png",ESPN 4 HD
+http://dzcdn.vood.top/live/889281840/Z451m1324a/222.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6Mzg0MDQifQ.rj8EuPyZL8s6ZjMVDLbVA9geBN_9jtOnb4JrfxeEFlM&id=222&p=m3u8&aid=1740439936
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV 1 HD
 http://ezcdn.vood.top/live/889281840/Z451m1324a/118881.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk3NTAzOTksImlhdCI6MTczOTY2NDAwMCwibmJmIjoxNzM5NjY0MDAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzcyODIifQ.GQKnOElGkWgo0lnAYdBMYw3rPR13FF8cze8033xWY3I&id=118881&p=m3u8&aid=1739683022
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png",SPORTV 2 HD
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv-2_m.png",SPORTV 2 HD
 http://hzcdn.vood.top/live/889281840/Z451m1324a/552.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk3NTAzOTksImlhdCI6MTczOTY2NDAwMCwibmJmIjoxNzM5NjY0MDAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NjA2NDQifQ.yOxQA9_FH6EMrTu8Fha_gpLzqg3vzGT6GHXU9phEGYI&id=552&p=m3u8&aid=1739683131
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png",SPORTV 3 HD
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv-3_m.png",SPORTV 3 HD
 http://czcdn.vood.top/live/889281840/Z451m1324a/557.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk3NTAzOTksImlhdCI6MTczOTY2NDAwMCwibmJmIjoxNzM5NjY0MDAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTY4MzAifQ.Gn64SntjW7L12YsWljhDmpC0qI9CDtONzKx9qlg4mhg&id=557&p=m3u8&aid=1739683229
 #EXTINF:-1 group-title="CANAIS NOVOS: ANIMES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp",ANIMAX
 https://stream.ichibantv.com:3547/stream/play.m3u8
@@ -330,7 +326,7 @@ https://abc.embedmax.site/tcpipoca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/132fed2c428e1178f53d456fbabeb044.png",Telecine Touch HD
 https://abc.embedmax.site/tctouch/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png",TNT HD
-https://abc.embedmax.site/tnt/tracks-v1a1/mono.m3u8
+http://dzcdn.vood.top/live/889281840/Z451m1324a/733.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTMxMDgifQ.cTD9I__MfLEUtP9J1wwSgE-2msVbMW4cX1hKrFFMHOY&id=733&p=m3u8&aid=1740438682
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png",TNT Sies HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16761
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e2375eb6c7d9c4024e4ac95060f4720e.png",Tooncast HD
