@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",Xite (720p)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/152ab10b638076a3dfa6cedf58d5f4a5.webp" group-title="Music",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="playtv.com.br" tvg-logo="https://mondrian.claro.com.br/channels/default/play-tv.svg" group-title="Music",PlayTV
 https://alanza.iptv2022.com/sh/PlayTv/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-id="51" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Music" tvg-name="QMusic Holanda",QMusic Holanda NL
