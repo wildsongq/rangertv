@@ -303,7 +303,7 @@ https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16745
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png",Paramount Channel HD
 https://abc.embedmax.site/paramountnetwork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/channels/default/recordnews.svg",Record News HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/channels/default/recordnews.svg",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1494179154.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/channels/default/record-tv.svg",RECORDTV HD
 https://alanza.iptv2022.com/sh/RecordTV/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2
@@ -311,11 +311,11 @@ https://alanza.iptv2022.com/sh/RecordTV/tracks-v2a1/mono.m3u8?filter.tracks=a1v1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740745225/ei/qVXBZ7X2Hqmi-LAP4_SPEA/ip/2804%3A7a50%3A8700%3A1800%3A9cab%3A224c%3A905%3A8e42/id/ABVQXgr2LW4.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393156/txs/51393154%2C51393155%2C51393156%2C51393157%2C51393158/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/bui/AUWDL3x5VvjgiE2IpcqwYMux053WXky7xERy_jv4R1KgXiuZUfvis5e0m9R4zC8Lg6_Q3pgSCCgQT9Do/spc/RjZbSernZ4sGqq-IhuwUTaq7762LtcZxQiUzRvn4RHUGWT9YkM14XSeEGf1p-VM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51358317/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgdshFvy7v8oQpmULEONNgY1sGijSqibBJCAB6Q2EnBR4CIQC_n9hVmGxG6NH_hceD4fZG8O2TqVdYWH0MHpPomvdTHQ%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ef537f5e1b335fb801b835682d8adade.png",Space HD
 https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-2.svg",SporTV 2 HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-2.svg",SporTV 2
 https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-3.svg",SporTV 3 HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-3.svg",SporTV 3
 https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv.svg",SporTV 1 HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv.svg",SporTV 1
 http://ezcdn.vood.top/live/889281840/Z451m1324a/118881.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDI2NTQifQ.jgEDW40vq04wh9KC_aw2jCYo-rwSDa8xgKcnDhLlEjg&id=118881&p=m3u8&aid=1739603086
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png",Studio Universal HD
 http://izcdn.vood.top/live/889281840/Z451m1324a/713.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDY1MzgifQ.W17LZjznh8kR6RrTpU5G_t_MGMAX_qZdx6GSzuF8ZNU&id=713&p=m3u8&aid=1740431361
@@ -327,17 +327,17 @@ https://abc.embedmax.site/tcfun/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/tcpipoca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/132fed2c428e1178f53d456fbabeb044.png",Telecine Touch HD
 https://abc.embedmax.site/tctouch/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT
 http://dzcdn.vood.top/live/889281840/Z451m1324a/733.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTMxMDgifQ.cTD9I__MfLEUtP9J1wwSgE-2msVbMW4cX1hKrFFMHOY&id=733&p=m3u8&aid=1740438682
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png",TNT Sies HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png",TNT Series
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16761
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e2375eb6c7d9c4024e4ac95060f4720e.png",Tooncast HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e2375eb6c7d9c4024e4ac95060f4720e.png",Tooncast
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16762
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/universal.svg",Universal Channel HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/universal.svg",Universal Channel
 http://dzcdn.vood.top/live/889281840/Z451m1324a/741.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDAwOTU5OTksImlhdCI6MTc0MDAwOTYwMCwibmJmIjoxNzQwMDA5NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTg2NjAifQ.ZVjQ-92MYC9E6uZ0rBSEcY60_UHOnbphfeMSPn_ubUg&id=741&p=m3u8&aid=1740014786
-#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png",Viva HD
+#EXTINF:-1 group-title="CANAIS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png",Viva
 https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/451d8bba7133cb8e02df39f1cb5da6ce.png",BAND HD
+#EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/451d8bba7133cb8e02df39f1cb5da6ce.png",BAND
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31060
 #EXTINF:-1 group-title="CANAIS: ABERTOS" tvg-logo="http://xcui.10initiatived.uk:8880/images/417652494f8f2da086df3293f779e5e9.png",CANAL BRASIL HD
 http://ezcdn.vood.top/live/889281840/Z451m1324a/146.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzgxMzAifQ.vG9K897n9noLMQwK9-maOs-khOzvyO4LIyAYdgiuWXg&id=146&p=m3u8&aid=1740431482
