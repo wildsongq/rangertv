@@ -146,13 +146,9 @@ https://tvsmarters.org/bis/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://mondrian.claro.com.br/channels/default/tnt-novelas.svg",TNT Novelas HD
 https://tvsmarters.org/tntnovelas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg",MTV HD
-https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/757c1f5876aec1ab5a54c27ef01dab76.png",FX HD
-https://super-cdn.link/fx/tracks-v1a1/mono.m3u8
+https://tvsmarters.org/mtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png",Studio Universal HD
-http://izcdn.vood.top/live/889281840/Z451m1324a/713.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDY1MzgifQ.W17LZjznh8kR6RrTpU5G_t_MGMAX_qZdx6GSzuF8ZNU&id=713&p=m3u8&aid=1740431361
-#EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png",MOVIESPHERE HD
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=znbQJxMeLGeDZ1T-XsEk
+https://tvsmarters.org/studiouniversal/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="CANAIS REGIONAL: MANAUS" tvg-logo="https://cdn.mitvstatic.com/channels/br_amazon-sat_m.png",Amazon Sat HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -160,29 +156,29 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 http://fzcdn.vood.top/live/889281840/Z451m1324a/244119.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk3NTAzOTksImlhdCI6MTczOTY2NDAwMCwibmJmIjoxNzM5NjY0MDAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzI3OTAifQ.XtyVb-Yno1B0tGXnGWCFQ26d4TG75wwcQrJ5lFv9Eaw&id=244119&p=m3u8&aid=1739684129
 
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BAND Sports HD
-http://fzcdn.vood.top/live/889281840/Z451m1324a/235.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTYzNjIifQ.SXObfZtgnix9jSZwsLmiAqXfOkFdES4rouErL0Tr_uo&id=235&p=m3u8&aid=1740438332
+https://tvsmarters.org/bandsports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/1e/10000158.png",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://aovivohd.net/tv/ao-vivo/red-bull-tv.webp",Red Bull TV	
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT HD
 https://tvsmarters.org/tnt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiereclubes.jpg",Premiere 1 Clubes HD
-http://izcdn.vood.top:80/live/889281840/Z451m1324a/491.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTY2NDYifQ.QGYrhrwfASpEaDjDmUK6ozxU4Z2C_cyqF9obzlNa748&id=491&p=m3u8&aid=1739602102
+#EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiereclubes.jpg",Premiere Clubes HD
+https://tvsmarters.org/premiereclubes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere2.jpg",Premiere 2 HD
-http://hzcdn.vood.top/live/889281840/Z451m1324a/497.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTA5MTYifQ.M1XiMeuI7CmsqO-jdZk3SYrKal01EvWFI08GV04OA-U&id=497&p=m3u8&aid=1739602703
+https://tvsmarters.org/premiere2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere3.jpg",Premiere 3 HD
-http://izcdn.vood.top/live/889281840/Z451m1324a/501.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDIxNTgifQ.9GsKYsP5WY9UgodEVrONaSbgJs-odFkYWkCYfaZ97ow&id=501&p=m3u8&aid=1740438820
+https://tvsmarters.org/premiere3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere4.jpg",Premiere 4 HD
-http://czcdn.vood.top/live/889281840/Z451m1324a/509.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk2NjM5OTksImlhdCI6MTczOTU3NzYwMCwibmJmIjoxNzM5NTc3NjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTE4ODgifQ.Y_NpiV9qLhG2nNb2ay1ECMJvtx61qbLW-5eYXjzstJE&id=509&p=m3u8&aid=1739602853
+https://tvsmarters.org/premiere4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere5.jpg",Premiere 5 HD
-http://czcdn.vood.top/live/889281840/Z451m1324a/512.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTIxODgifQ.Lc0rnNH_eG-T7YU4pVNSqbyN_9sLp3hFhbaII6s6r1s&id=512&p=m3u8&aid=1740438890
+https://tvsmarters.org/premiere5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere6.jpg",Premiere 6 HD
-http://izcdn.vood.top/live/889281840/Z451m1324a/519.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NDUyNTIifQ.lUjzhos-fcJx_u9lcND0azONH6DFxuNe5SM2hqimM7k&id=519&p=m3u8&aid=1740438944
+https://tvsmarters.org/premiere6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://loopstatic.net/premiere7.jpg",Premiere 7 HD
-http://ezcdn.vood.top/live/889281840/Z451m1324a/524.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA0NDE1OTksImlhdCI6MTc0MDM1NTIwMCwibmJmIjoxNzQwMzU1MjAwLCJ1c2VyIjoiODg5MjgxODQwIiwidXNlckFnZW50IjoiRXhvUGxheWVyRGVtby8xLjkgKExpbnV4O0FuZHJvaWQgMTEpIEFuZHJvaWRYTWVkaWEzLzEuNi4wLWFscGhhMDEiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6MzkwODAifQ.zqzZS-xg35IdxkYMTXTi6SK2F25o9vcf-7CcWrqWyyo&id=524&p=m3u8&aid=1740438998
+https://tvsmarters.org/premiere7/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-8_m.png",Premiere 8 HD
-http://zutufo.in/live/889281840/Z451m1324a/380749.m3u8
+https://tvsmarters.org/premiere8/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-brasil_m.png",ESPN HD
 https://tvsmarters.org/espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: ESPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-brasil_m.png",ESPN 2 HD
