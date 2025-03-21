@@ -84,7 +84,7 @@ https://hls.hunter.fm/rock/64.m3u8
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-1_m.png",CINEMAX HD
 https://tvsmarters.org/cinemax/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MAXBSC" group-title="CANAIS NOVOS: HD" tvg-logo="https://mondrian.claro.com.br/brands/channels/mtv.svg",MTV BRASIL
-https://super-cdn.link/mtv/tracks-v1a1/mono.m3u8
+https://tvsmarters.org/mtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE HD
 https://tvsmarters.org/space/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANAIS NOVOS: HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-hd_m.png",HBO HD
